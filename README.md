@@ -1,4 +1,4 @@
-<img alt="" src="" height="80" align="right"/>
+<img alt="" src="https://raw.githubusercontent.com/MerolaITCG/MerolaITCG/refs/heads/main/logo%20cerboni.png" height="80" align="right"/>
 </br>
 </br>
 <h1 align="center">
